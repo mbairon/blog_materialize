@@ -1,0 +1,14 @@
+
+  body {
+  background-image: url(../img/fondo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  }
+
+  .row{
+    padding: 2%;
+  }
+  .input-field label {
+       color: white;
+     }
